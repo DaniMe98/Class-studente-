@@ -16,7 +16,7 @@ class esame{
 		void setEsame(string x);  //imposta x come nome dell'esame
 		int getVoto() ;      //restituisce il voto dell'esame
 		void setVoto(int v);     //imposta v come voto dell'esame
-		bool isSostenuto();  //restituisce true se l'esame è stato sostenuto, false altrimenti
+		bool isSostenuto();  //restituisce true se l'esame Ã¨ stato sostenuto, false altrimenti
 	    void setSostenuto(bool vl);
 	
 	
